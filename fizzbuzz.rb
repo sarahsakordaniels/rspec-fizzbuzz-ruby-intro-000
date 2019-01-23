@@ -10,3 +10,5 @@ def fizzbuzz(int)
 
   end
 end
+elsif int % 5 == 0 && % 3 == 0
+    "FizzBuzz"
